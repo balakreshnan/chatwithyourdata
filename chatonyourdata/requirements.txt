@@ -1,0 +1,5 @@
+openai
+streamlit
+azure-storage-blob
+streamlit-option-menu
+python-dotenv
