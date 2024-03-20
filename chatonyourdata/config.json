@@ -1,6 +1,6 @@
 {
     "COMPLETIONS_MODEL":"gpt-4",
-    "AZURE_OPENAI_ENDPOINT":"https://xmm-openai-eastus.openai.azure.com/",
+    "AZURE_OPENAI_ENDPOINT":"https://xxxx-eastus.openai.azure.com/",
     "OPENAI_API_VERSION":"2024-02-15-preview",
-    "AZURE_OPENAI_KEY":"aebd0ecddf134907b076f234cd9cb77e"
+    "AZURE_OPENAI_KEY":"xxxxxxx"
 }
